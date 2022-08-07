@@ -1,7 +1,7 @@
 # oop-java-beginning
 Diretório para exemplos de códigos para a disciplina de programação orientada a objetos
 
-A principal ideia deste reposítório é o compartilhamento de conteúdo educacional, seja por parte de quem já tem muito experiência com orientação a objetos ou para quem está iniciando.
+A principal ideia deste reposítório é o compartilhamento de conteúdo educacional, seja por parte de quem já tem muita experiência com orientação a objetos ou para quem está iniciando.
 
 Preferêncialmente, minha recomendação é a utilização da liguagem de programação Java.
 
